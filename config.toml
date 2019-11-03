@@ -1,0 +1,5 @@
+baseURL = "http://ralucageorgescu.github.io/"
+languageCode = "en-gb"
+locale = "en-gb"
+title = "Raluca Georgescu"
+theme = "hugo-code-editor-theme"
